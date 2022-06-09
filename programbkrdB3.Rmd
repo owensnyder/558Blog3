@@ -35,3 +35,5 @@ Although I have never formally been taught how to code in R in the way this clas
 plot(iris)
 
 ```
+
+![plotiris](/Users/owensnyder/Desktop/st558data/plotiris)
