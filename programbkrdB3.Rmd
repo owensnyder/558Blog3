@@ -7,6 +7,15 @@ output: github_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(fig.path = "../images/")
+
+```
+
+```{r, echo = FALSE, eval = FALSE}
+library(rmarkdown)
+output_format = "markdown"
+output_dir = "/Users/owensnyder/Desktop/st558data/558Blog3"
+#output_options = 
+keep_html = FALSE
 ```
 
 
