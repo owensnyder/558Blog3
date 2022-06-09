@@ -44,3 +44,5 @@ plot(iris)
 ```
 
 ![](../images/unnamed-chunk-2-1.png)<!-- -->
+
+![plotiris](/Users/owensnyder/Desktop/st558data/plotiris)
