@@ -43,4 +43,4 @@ attention to detail at times.
 plot(iris)
 ```
 
-![](programbkrdB3_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
+![](../images/unnamed-chunk-2-1.png)<!-- -->
